@@ -4,50 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Currículo</title>
-  <style>
-    body {
-      background-color: #f0f0f0;
-      font-family: Arial, sans-serif;
-      font-size: 18px;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #8F0D87;
-      text-align: center;
-    }
-    h2 {
-      margin-top: 20px;
-    }
-    p {
-      margin-bottom: 15px;
-    }
-    ul {
-      margin-bottom: 20px;
-    }
-    li {
-      margin-bottom: 5px;
-    }
-    a {
-      color: #8F0D87;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    #footer {
-      width: 100%;
-      margin-top: 50px;
-    }
-  </style>
 </head>
 <body>
   <div class="container">
