@@ -28,6 +28,3 @@ Sou estudante do curso de Ciência da Computação pela Universidade Federal Rur
 
 ### Editores de código, IDEs e outras
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-<img id="footer" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer">
-
