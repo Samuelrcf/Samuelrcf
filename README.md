@@ -1,5 +1,3 @@
-# Currículo
-
 ## SAMUEL RÓGENES CARVALHO FREIRE
 ### Desenvolvedor Backend
 
