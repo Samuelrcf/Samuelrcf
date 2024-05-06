@@ -5,7 +5,7 @@ Sou estudante do curso de Ciência da Computação pela Universidade Federal Rur
 
 ## Links de Contato
 - GITHUB: [/Samuelrcf](https://github.com/Samuelrcf)
-- LINKEDIN: [Link do Perfil](https://www.linkedin.com/in/samuel-r%C3%B3genes-69a25b238/)
+- LINKEDIN: [/samuel-rógenes-69a25b238](https://www.linkedin.com/in/samuel-r%C3%B3genes-69a25b238/)
 - EMAIL: rogenescarvalho@hotmail.com
 
 ## Educação
