@@ -1,7 +1,7 @@
 ## SAMUEL RÓGENES CARVALHO FREIRE
 ### Desenvolvedor Backend
 
-Sou estudante do curso de Ciência da Computação pela Universidade Federal Rural do Semi-Árido, atualmente cursando o quarto período. Frequentemente desenvolvo projetos com Java e Spring Boot, focando na criação de REST APIs e aplicações Web com o intuito de aprender mais sobre a linguagem e aprimorar meus conhecimentos, tentando sempre evoluir com o que a linguagem oferece.
+Sou estudante do curso de Ciência da Computação pela Universidade Federal Rural do Semi-Árido, atualmente cursando o quarto período. Frequentemente desenvolvo projetos Spring Boot, focando na criação de REST API's com o intuito de aprender mais sobre a linguagem e aprimorar meus conhecimentos.
 
 ## Links de Contato
 - GITHUB: [/Samuelrcf](https://github.com/Samuelrcf)
