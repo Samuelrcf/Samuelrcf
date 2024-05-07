@@ -1,6 +1,6 @@
 ## SAMUEL RÓGENES CARVALHO FREIRE
 
-Sou estudante do curso de Ciência da Computação pela Universidade Federal Rural do Semi-Árido, atualmente cursando o quarto período. Frequentemente desenvolvo projetos Spring Boot, focando na criação de REST API's com o intuito de aprender mais sobre a linguagem e aprimorar meus conhecimentos.
+Estudante do curso de Ciência da Computação pela Universidade Federal Rural do Semi-Árido, atualmente cursando o quarto período. Frequentemente desenvolvo projetos Spring Boot, focando na criação de REST API's com o intuito de aprender mais sobre a linguagem e aprimorar meus conhecimentos.
 
 ## Links de Contato
 - GITHUB: [/Samuelrcf](https://github.com/Samuelrcf)
