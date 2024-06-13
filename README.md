@@ -11,7 +11,7 @@ Estudante do curso de Ciência da Computação pela Universidade Federal Rural d
 - Cursando o quarto período do Bacharelado em Ciência da Computação pela Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Mossoró
 - Certificação do curso de Java COMPLETO por Nélio Alves
 - Formado no curso Técnico Integrado em Eletrotécnica pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte – Campus Mossoró
-- Participação em eventos da UFERSA, como o WORKSHOP TÉCNICO-CIENTÍFICO DE COMPUTAÇÃO (WTCC) e minicursos (Python e Github)
+- Participação em eventos da UFERSA, como o WORKSHOP TÉCNICO-CIENTÍFICO DE COMPUTAÇÃO (WTCC) e minicursos (Python, Flutter e Github)
 
 ## Nível de Inglês
 ![##########----](https://progress-bar.dev/80?width=200&color=orange)
