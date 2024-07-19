@@ -16,7 +16,7 @@ Estudante do curso de Ciência da Computação pela Universidade Federal Rural d
 - Participação em eventos da UFERSA, como o WORKSHOP TÉCNICO-CIENTÍFICO DE COMPUTAÇÃO (WTCC) e minicursos (Python, Flutter e Github)
 
 ## Nível de Inglês
-![#########-----](https://progress-bar.dev/80?width=200&color=orange)
+![##########----](https://progress-bar.dev/70?width=200&color=orange)
 
 ## Tecnologias
 ### Backend
