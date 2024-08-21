@@ -15,9 +15,6 @@ Estudante do curso de Ciência da Computação pela Universidade Federal Rural d
 - Formado no curso Técnico Integrado em Eletrotécnica pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte – Campus Mossoró
 - Participação em eventos da UFERSA, como o WORKSHOP TÉCNICO-CIENTÍFICO DE COMPUTAÇÃO (WTCC) e minicursos (Python, Flutter e Github)
 
-## Nível de Inglês
-![##########----](https://progress-bar.dev/70?width=200&color=orange)
-
 ## Tecnologias
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
