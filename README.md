@@ -8,7 +8,7 @@ Estudante do curso de Ciência da Computação pela Universidade Federal Rural d
 - EMAIL: rogenescarvalho@hotmail.com
 
 ## Educação
-- Cursando o quinto período do Bacharelado em Ciência da Computação pela Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Mossoró
+- Cursando o sexto período do Bacharelado em Ciência da Computação pela Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Mossoró
 - Certificação do curso de Java COMPLETO por Nélio Alves
 - Certificação do curso de REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker por Leandro Costa
 - Certificação do curso de Spring Security 6 Zero to Master along with JWT,OAUTH2 por Madan Reddy
