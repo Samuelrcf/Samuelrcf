@@ -9,9 +9,10 @@ Estudante do curso de Ciência da Computação pela Universidade Federal Rural d
 
 ## Educação
 - Cursando o sexto período do Bacharelado em Ciência da Computação pela Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Mossoró
-- Certificação do curso de Java COMPLETO por Nélio Alves
-- Certificação do curso de REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker por Leandro Costa
-- Certificação do curso de Spring Security 6 Zero to Master along with JWT,OAUTH2 por Madan Reddy
+- Certificação do curso Java COMPLETO por Nélio Alves
+- Certificação do curso REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker por Leandro Costa
+- Certificação do curso Spring Security 6 Zero to Master along with JWT,OAUTH2 por Madan Reddy
+- Certificação do curso [NEW] Master Microservices with SpringBoot,Docker,Kubernetes por Madan Reddy
 - Certificação do bootcamp Claro - Java com Spring Boot pela DIO
 - Formado no curso Técnico Integrado em Eletrotécnica pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte – Campus Mossoró
 - Participação em eventos da UFERSA, como o WORKSHOP TÉCNICO-CIENTÍFICO DE COMPUTAÇÃO (WTCC) e minicursos (Python, Flutter e Github)
