@@ -1,21 +1,37 @@
 ## SAMUEL RÓGENES CARVALHO FREIRE
 
-Estudante do curso de Ciência da Computação pela Universidade Federal Rural do Semi-Árido, atualmente cursando o sexto período.
+Desenvolvedor Java com experiência em criação de APIs e sistemas web utilizando o ecossistema Spring. Atuação com manutenção de sistemas, desenvolvimento de funcionalidades, aplicação de boas práticas (SOLID, Clean Architecture), Domain-Driven-Design e versionamento com Git. Vivência em projetos acadêmicos e profissionais.
 
 ## Links de Contato
 - GITHUB: [/Samuelrcf](https://github.com/Samuelrcf)
 - LINKEDIN: [/samuel-rógenes-69a25b238](https://www.linkedin.com/in/samuel-r%C3%B3genes-69a25b238/)
 - EMAIL: rogenescarvalho@hotmail.com
 
-## Educação
-- Cursando o sexto período do Bacharelado em Ciência da Computação pela Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Mossoró
-- Certificação do curso Java COMPLETO por Nélio Alves
-- Certificação do curso REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker por Leandro Costa
-- Certificação do curso Spring Security 6 Zero to Master along with JWT,OAUTH2 por Madan Reddy
-- Certificação do curso [NEW] Master Microservices with SpringBoot,Docker,Kubernetes por Madan Reddy
-- Certificação do bootcamp Claro - Java com Spring Boot pela DIO
-- Formado no curso Técnico Integrado em Eletrotécnica pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte – Campus Mossoró
-- Participação em eventos da UFERSA, como o WORKSHOP TÉCNICO-CIENTÍFICO DE COMPUTAÇÃO (WTCC) e minicursos (Python, Flutter e Github)
+## Experiência Profissional
+
+### Estagiário de TI – Defensoria Pública do RN (abril/2025 – atual)
+- Realizo manutenção técnica de computadores e suporte a usuários internos.
+- Instalo e configuro softwares corporativos, garantindo funcionamento contínuo.
+- Analiso sistemas internos e apoio demandas administrativas relacionadas à TI.
+
+### Desenvolvedor Web (Projeto Freelancer) – Secretaria de Educação de Upanema/RN (2025)
+- Implementei backend com Spring Boot e frontend com Next.js, integrando ao PostgreSQL.
+
+## Formação Acadêmica
+- Bacharelado em Ciência da Computação – UFERSA (8º semestre)
+- Técnico em Eletrotécnica – IFRN
+- Participação em eventos e minicursos: WTCC, Python, GitHub.
+- Projeto de pesquisa: Estudo de padrões e tecnologias de computação paralela e
+distribuída para alto desempenho.
+
+## Certificações
+- Java COMPLETO – POO + Projetos (Udemy, Nelio Alves)
+- REST APIs RESTful com Spring Boot 3, Java e Docker (Udemy, Leandro Costa)
+- Spring Security 6 com JWT e OAuth2 (Udemy, Madan Reddy)
+- Master Microservices with Spring Boot, Docker, Kubernetes (Udemy, Madan Reddy)
+- Bootcamp Claro – Java com Spring Boot (DIO)
+- gRPC Masterclass with Java & Spring Boot (Udemy, Vinoth Selvaraj)
+- Arquitetura de Redes (Udemy, Gabriel Torres)
 
 ## Tecnologias
 ### Backend
