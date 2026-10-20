@@ -14,9 +14,6 @@ Desenvolvedor Java com experiência em criação de APIs e sistemas web utilizan
 - Instalo e configuro softwares corporativos, garantindo funcionamento contínuo.
 - Analiso sistemas internos e apoio demandas administrativas relacionadas à TI.
 
-### Desenvolvedor Web (Projeto Freelancer) – Secretaria de Educação de Upanema/RN (2025)
-- Implementei backend com Spring Boot e frontend com Next.js, integrando ao PostgreSQL.
-
 ## Formação Acadêmica
 - Bacharelado em Ciência da Computação – UFERSA (8º semestre)
 - Técnico em Eletrotécnica – IFRN
